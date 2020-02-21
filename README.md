@@ -9,7 +9,24 @@ The amount of tea that Canadians drink has doubled in the past few decades. As o
 
 There are same neighborhood some places have a high demand while there are others hardly getting any profit. So if I wanna open a tea store, where would be a nice place to open my first store? The objective of the following analysis is to check where would be popular in a determined neighborhood, and which neighborhood has a better acceptance for that kind. This capstone would be interesting for those who wanna open a tea store and have no idea where to open.
 
-### 2) Description of the data and how it will be used to solve the problem.
+### 2) Who would be interesting at the capstone?
+
+This capstone would be interesting for those who wanna open a tea store and have no idea where to open.
+
+Investor
+Entrepreneur
+Tea supplier
+Asian restaurants
+
+### 3) Data that you can get from this capstone
+
+Top venues of Toronto in different sectors
+Market demand (cluster)
+Best place to open a tea store
+Where do you have more competitor
+etc.
+
+### 4) Description of the data and how it will be used to solve the problem.
 
 Considering the problem mentioned, the following data will be used to solve the problem:
 
