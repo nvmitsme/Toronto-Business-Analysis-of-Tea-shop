@@ -13,18 +13,18 @@ There are same neighborhood some places have a high demand while there are other
 
 This capstone would be interesting for those who wanna open a tea store and have no idea where to open.
 
-Investor
-Entrepreneur
-Tea supplier
-Asian restaurants
+- Investor
+- Entrepreneur
+- Tea supplier
+- Asian restaurants
 
 ### 3) Data that you can get from this capstone
 
-Top venues of Toronto in different sectors
-Market demand (cluster)
-Best place to open a tea store
-Where do you have more competitor
-etc.
+- Top venues of Toronto in different sectors
+- Market demand (cluster)
+- Best place to open a tea store
+- Where do you have more competitor
+- etc.
 
 ### 4) Description of the data and how it will be used to solve the problem.
 
